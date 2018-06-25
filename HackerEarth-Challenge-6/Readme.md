@@ -1,1 +1,1 @@
-The file 'predict.py' contains the model to predict earthquake damage to buildings, following HackerEarth Challenge 6. Data has not been uploaded because of the large size, and can be downloaded from their website.
+The file 'predict.ipynb' contains the model to predict earthquake damage to buildings, following HackerEarth Challenge 6. Data has not been uploaded because of the large size, and can be downloaded from their website.
